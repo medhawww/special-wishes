@@ -6,7 +6,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,700&display=swap");
 
-body {
+/* body {
   transition-duration: 0.5s;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
               url('https://images.unsplash.com/vector-1750301528355-0770ba31e93e?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
@@ -15,7 +15,18 @@ body {
   font-size: x-large;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
+} */
+body {
+  transition-duration: 0.5s;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+              url('https://images.unsplash.com/vector-1750301528355-0770ba31e93e?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat bottom center fixed;
+  background-size: cover;
+  color: white;
+  font-size: x-large;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
 }
+
 
 
 .hide {
