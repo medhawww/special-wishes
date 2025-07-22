@@ -15,7 +15,7 @@ const Messages = [
   {
     id: "3",
     start: new Date().getTime() + 4200,
-    message: "What would you like for a gift... face mask 😷 or gloves🧤?",
+    message: "What would you like for a gift... some meme's😁?",
     delay: 4200,
   },
   {
@@ -33,7 +33,7 @@ const Messages = [
   {
     id: "6",
     start: new Date().getTime() + 10200,
-    message: "Jainam. 👨‍💻",
+    message: "Lokesh. 👨‍💻",
     delay: 10200,
   },
 ];
