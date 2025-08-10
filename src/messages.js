@@ -50,7 +50,7 @@ const Messages = [
   },{
     id: "9",
     start: new Date().getTime() + 16200,
-    message: "Happy Birthday, my dear 🌼",
+    message: "Happy Birthday🌼",
     delay: 16200,
   },{
     id: "10",
