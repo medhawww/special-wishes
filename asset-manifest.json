@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/special-wishes/static/css/main.067066db.css",
+    "main.js": "/special-wishes/static/js/main.533ad64a.js",
+    "index.html": "/special-wishes/index.html",
+    "main.067066db.css.map": "/special-wishes/static/css/main.067066db.css.map",
+    "main.533ad64a.js.map": "/special-wishes/static/js/main.533ad64a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067066db.css",
+    "static/js/main.533ad64a.js"
+  ]
+}
